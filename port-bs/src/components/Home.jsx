@@ -13,7 +13,7 @@ const Home = () => {
           <p className='text-2xl text-yellow-600 animate__animated animate__fadeInDown animate__delay-1s'>Hi, my name is</p>
           <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6] animate__animated animate__fadeInUp animate__delay-2s'>Brandon Sebastian</h1>
           <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0] animate__animated animate__fadeInUp animate__delay-3s'>I'm a Junior Code Monkey</h2>
-          <p className='text-xl text-white py-4 max-w-[700px] animate__animated animate__fadeInUp animate__delay-4s'>I'm a pretty sorry excuse for a developer at this point, really. Let's be honest. But, I can type pretty fast for a redhead. So, there's that.</p>
+          <p className='text-xl text-white py-4 max-w-[700px] animate__animated animate__fadeInUp animate__delay-4s'>Welcome to my PORTFOLIO! Please make yourself comfortbale and take a look around at your leisure. If you have any questions or just want to chat, please click on the CONTACT link above, or the email icon to the left. Thank you for visiting! Cheers!</p>
         <div>
         <Link to='work' smooth={true} duration={500}>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-500 hover:border-yellow-600'>View Work 

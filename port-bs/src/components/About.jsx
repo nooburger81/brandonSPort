@@ -19,7 +19,7 @@ const About = () => {
                 </div>
                 <div>
                     <p>
-                        I read somewhere that, if you do not create then you are only valued by your tastes....or something like that. That sounds pretty lame to me. BUT! I must agree. I live for the process of being inspired so intently that I have no choice BUT to do something about it. And that is when I am at my best as a creator.
+                        For over 20 years I worked my way up the ladder of the culinary industry, only to have those dreams squashed in the wake of the pandemic. But during that time I learned invaluable lessons in self-discipline, time management, and above all--how to be creative and love what you do. Don't let anyone tell you it's too late to learn something new and exciting. Making this pivot was the best choice I've ever made, and I cannot wait to journey further into this ever-evolving, ever-challenging, yet ALWAYS mind-blowing world of web development.
                     </p>
                 </div>
             </div>

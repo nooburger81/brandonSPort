@@ -9,7 +9,6 @@ import {
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-// import Logo from '../assets/icons8-user-male-24.png';
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -115,17 +114,16 @@ const Navbar = () => {
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-            <a
-              className='flex justify-between items-center w-full text-gray-300'>
-                <Link to='contact' smooth={true} duration={500}>
-                Email</Link>
-              <HiOutlineMail size={30} />
+            <a className='flex justify-between items-center w-full text-gray-300'>
+                
+                Email
+                <Link to='contact' smooth={true} duration={500}><HiOutlineMail size={30} /></Link>
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://profile.indeed.com/document/view'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
