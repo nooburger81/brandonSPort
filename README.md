@@ -30,6 +30,7 @@
     REACT
     Tailwind CSS
     Animate CSS
+    GetForm.io
     Javascript
 
   ## Contributing
