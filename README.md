@@ -7,6 +7,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Tech Stack](#tech stack)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -22,6 +23,12 @@
 
   ## License
     This project is licensed under the MIT license.
+    
+  ## Tech Stack
+    REACT
+    Tailwind CSS
+    Animate CSS
+    Javascript
 
   ## Contributing
   TA Brittini Court - she helped talk me down from the ledge when my app wasn't deploying. She's an angel. I also watched a tutorial for installing Tailwind CSS - I couldn't find the exact video but the guy's name was Code Commerce. 
