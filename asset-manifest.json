@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nooburger.github.io/brandonSPort/static/css/main.36a2950c.css",
-    "main.js": "/nooburger.github.io/brandonSPort/static/js/main.042a3aa9.js",
+    "main.js": "/nooburger.github.io/brandonSPort/static/js/main.5a71b682.js",
     "static/media/foove.png": "/nooburger.github.io/brandonSPort/static/media/foove.744b9e8bdc7cce38b0e2.png",
     "static/media/blog.png": "/nooburger.github.io/brandonSPort/static/media/blog.4dda0fef51cde51eb58b.png",
     "static/media/react.png": "/nooburger.github.io/brandonSPort/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/nooburger.github.io/brandonSPort/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/nooburger.github.io/brandonSPort/index.html",
     "main.36a2950c.css.map": "/nooburger.github.io/brandonSPort/static/css/main.36a2950c.css.map",
-    "main.042a3aa9.js.map": "/nooburger.github.io/brandonSPort/static/js/main.042a3aa9.js.map"
+    "main.5a71b682.js.map": "/nooburger.github.io/brandonSPort/static/js/main.5a71b682.js.map"
   },
   "entrypoints": [
     "static/css/main.36a2950c.css",
-    "static/js/main.042a3aa9.js"
+    "static/js/main.5a71b682.js"
   ]
 }
