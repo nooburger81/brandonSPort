@@ -7,7 +7,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Tech Stack](#tech stack)
+  * [Tech Stack](#techstack)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
