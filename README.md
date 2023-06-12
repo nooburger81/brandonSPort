@@ -32,14 +32,7 @@
     Tailwind CSS
     Animate CSS
     GetForm.io
-
-  ## Tech Stack
-    REACT
-    Javascript
-    Tailwind CSS
-    Animate CSS
-    GetForm.io  
-
+    
   ## Contributing
   TA Brittini Court - she helped talk me down from the ledge when my app wasn't deploying. She's an angel. I also watched a tutorial for installing Tailwind CSS - I couldn't find the exact video but the guy's name was Code Commerce. 
 
