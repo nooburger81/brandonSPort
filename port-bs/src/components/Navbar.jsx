@@ -114,11 +114,11 @@ const Navbar = () => {
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-            <a className='flex justify-between items-center w-full text-gray-300'>
+            {/* <a > */}
                 
                 Email
-                <Link to='contact' smooth={true} duration={500}><HiOutlineMail size={30} /></Link>
-            </a>
+                <Link to='contact' smooth={true} duration={500}><HiOutlineMail size={30} className='flex justify-between items-center w-full text-gray-300' /></Link>
+            {/* </a> */}
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
