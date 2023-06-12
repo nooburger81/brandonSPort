@@ -1,7 +1,7 @@
 {
   "name": "port-bs",
   "version": "0.1.0",
-  "homepage": "nooburger.github.io/brandonSPort/",
+  "homepage": "https://nooburger81.github.io/brandonSPort/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
