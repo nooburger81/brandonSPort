@@ -19,6 +19,8 @@
   Click the link to the deployed site on Github Pages and behold!
 
   ## Usage
+  Link to Deployed Site:  https://nooburger81.github.io/brandonSPort/
+  
   I would use this porject to guide potential employers towards my direction, and potentially use it to curate collaborations and relationships with others in my industry.
 
   ## License
