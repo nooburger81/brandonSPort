@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/nooburger.github.io/brandonSPort/static/css/main.36a2950c.css",
-    "main.js": "/nooburger.github.io/brandonSPort/static/js/main.0bb546e9.js",
-    "static/media/workImg.jpeg": "/nooburger.github.io/brandonSPort/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.js": "/nooburger.github.io/brandonSPort/static/js/main.042a3aa9.js",
+    "static/media/foove.png": "/nooburger.github.io/brandonSPort/static/media/foove.744b9e8bdc7cce38b0e2.png",
+    "static/media/blog.png": "/nooburger.github.io/brandonSPort/static/media/blog.4dda0fef51cde51eb58b.png",
     "static/media/react.png": "/nooburger.github.io/brandonSPort/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/nooburger.github.io/brandonSPort/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/nooburger.github.io/brandonSPort/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/tictaktoe.png": "/nooburger.github.io/brandonSPort/static/media/tictaktoe.cef0ea71de2398112a6c.png",
     "static/media/html.png": "/nooburger.github.io/brandonSPort/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/nooburger.github.io/brandonSPort/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/javascript.png": "/nooburger.github.io/brandonSPort/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/nooburger.github.io/brandonSPort/index.html",
     "main.36a2950c.css.map": "/nooburger.github.io/brandonSPort/static/css/main.36a2950c.css.map",
-    "main.0bb546e9.js.map": "/nooburger.github.io/brandonSPort/static/js/main.0bb546e9.js.map"
+    "main.042a3aa9.js.map": "/nooburger.github.io/brandonSPort/static/js/main.042a3aa9.js.map"
   },
   "entrypoints": [
     "static/css/main.36a2950c.css",
-    "static/js/main.0bb546e9.js"
+    "static/js/main.042a3aa9.js"
   ]
 }
