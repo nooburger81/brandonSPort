@@ -7,6 +7,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Tech Stack](#techstack)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -18,10 +19,19 @@
   Click the link to the deployed site on Github Pages and behold!
 
   ## Usage
+  Link to Deployed Site:  https://nooburger81.github.io/brandonSPort/
+  
   I would use this porject to guide potential employers towards my direction, and potentially use it to curate collaborations and relationships with others in my industry.
 
   ## License
     This project is licensed under the MIT license.
+    
+  ## Tech Stack
+    REACT
+    JavaScript
+    Tailwind CSS
+    Animate CSS
+    GetForm.io
 
   ## Tech Stack
     REACT
