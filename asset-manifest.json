@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/brandonSPort/static/css/main.36a2950c.css",
-    "main.js": "/brandonSPort/static/js/main.90f98f8e.js",
+    "main.js": "/brandonSPort/static/js/main.ba39c4b8.js",
     "static/media/foove.png": "/brandonSPort/static/media/foove.744b9e8bdc7cce38b0e2.png",
-    "static/media/blog.png": "/brandonSPort/static/media/blog.4dda0fef51cde51eb58b.png",
+    "static/media/what.png": "/brandonSPort/static/media/what.7bf8b542d8e102f2a58e.png",
     "static/media/react.png": "/brandonSPort/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/brandonSPort/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/brandonSPort/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/brandonSPort/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/brandonSPort/index.html",
     "main.36a2950c.css.map": "/brandonSPort/static/css/main.36a2950c.css.map",
-    "main.90f98f8e.js.map": "/brandonSPort/static/js/main.90f98f8e.js.map"
+    "main.ba39c4b8.js.map": "/brandonSPort/static/js/main.ba39c4b8.js.map"
   },
   "entrypoints": [
     "static/css/main.36a2950c.css",
-    "static/js/main.90f98f8e.js"
+    "static/js/main.ba39c4b8.js"
   ]
 }
